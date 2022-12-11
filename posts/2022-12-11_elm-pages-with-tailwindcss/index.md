@@ -1,6 +1,6 @@
 ---
 title: elm-pages + tailwindcss
-descriptoin: 
+descriptoin: elm-pages で tailwindcss を使う手順のメモ。
 tags:
   - プログラミング
   - Elm
