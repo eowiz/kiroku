@@ -7,6 +7,9 @@ tags:
   - Narou.rb
 ---
 
+Kindle Paperwhite を買ってしばらくはなろう小説を読んでいたが、最近すっかり読まなくなってしまった。
+久しぶりに読みたいタイトルがあったので MacBook Air (Apple M2) にも Narou.rb を入れたのでその手順のメモを残しておく。
+
 ## 環境
 
 ###
