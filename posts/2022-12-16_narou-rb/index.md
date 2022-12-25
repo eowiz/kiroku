@@ -12,8 +12,6 @@ Kindle Paperwhite を買ってしばらくはなろう小説を読んでいた�
 
 ## 環境
 
-###
-
 MacBook Air (Apple M2)
 
 ## 手順
@@ -389,4 +387,4 @@ Done installing documentation for webrick, unicode-display_width, tilt, termcolo
 
 あとは公式の手順書に従って使えるようになります。
 
-それでは、よいなろうライフを :wave:
+それでは、よいなろうライフを 👋
