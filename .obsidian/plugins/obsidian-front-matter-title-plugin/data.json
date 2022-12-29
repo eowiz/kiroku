@@ -1,0 +1,49 @@
+{
+  "templates": [
+    "title"
+  ],
+  "rules": {
+    "paths": {
+      "mode": "black",
+      "values": []
+    },
+    "delimiter": {
+      "enabled": false,
+      "value": ""
+    }
+  },
+  "debug": false,
+  "boot": {
+    "delay": 1000
+  },
+  "features": {
+    "alias": {
+      "enabled": false,
+      "strategy": ""
+    },
+    "explorer": {
+      "enabled": true
+    },
+    "explorer:sort": {
+      "enabled": true
+    },
+    "tab": {
+      "enabled": true
+    },
+    "header": {
+      "enabled": true
+    },
+    "graph": {
+      "enabled": true
+    },
+    "starred": {
+      "enabled": true
+    },
+    "search": {
+      "enabled": true
+    },
+    "suggest": {
+      "enabled": true
+    }
+  }
+}
