@@ -1,4 +1,5 @@
 {
   "folder": "",
-  "format": "[til/]YYYY-MM-DD/[index.md]"
+  "format": "[til/]YYYY-MM-DD/[index.md]",
+  "template": "templates/daily-note.md"
 }
