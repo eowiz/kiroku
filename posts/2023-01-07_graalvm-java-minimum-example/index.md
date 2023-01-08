@@ -6,6 +6,10 @@ tags:
   - GraalVM
 ---
 
+## TL;DL
+
+https://github.com/eowiz/java-graalvm-sample
+
 ## はじめに
 
 [GraalVM](https://www.graalvm.org/) をご存知だろうか。
