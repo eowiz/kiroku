@@ -1,6 +1,6 @@
 ---
 title: Java + GraalVM Native Image
-description:
+description: Java で書いたプログラムで GraalVM Native Image を作成する方法の紹介です。
 tags:
   - Java
   - GraalVM
