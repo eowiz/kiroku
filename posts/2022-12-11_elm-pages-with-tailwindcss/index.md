@@ -5,6 +5,7 @@ tags:
   - プログラミング
   - Elm
   - tailwindcss
+updated_at: 2022-12-11
 ---
 
 ## 概要

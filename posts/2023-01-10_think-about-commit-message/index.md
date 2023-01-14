@@ -4,6 +4,7 @@ description: git の commit メッセージについて考える。
 tags:
   - プログラミング
   - git
+updated_at: 2023-01-10
 ---
 
 ## はじめに
@@ -135,6 +136,7 @@ Conventional Commits をベースに `<description>` の前に `<emoji>` を入�
 |          | 📌    | 依存を特定のバージョンで固定 |
 |          | 🔧    | 設定ファイルの追加、更新     |
 |          | 🔨    | ビルドスクリプトの追加、更新 |
+| release  | 🔖    | リリース/バージョンタグ      |
 
 ### ツール
 

@@ -4,6 +4,7 @@ description: Java で書いたプログラムで GraalVM Native Image を作成�
 tags:
   - Java
   - GraalVM
+updated_at: 2023-01-07
 ---
 
 ## TL;DL

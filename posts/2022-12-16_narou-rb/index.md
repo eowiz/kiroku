@@ -5,6 +5,7 @@ tags:
   - Kindle
   - なろう
   - Narou.rb
+updated_at: 2022-12-16
 ---
 
 Kindle Paperwhite を買ってしばらくはなろう小説を読んでいたが、最近すっかり読まなくなってしまった。
