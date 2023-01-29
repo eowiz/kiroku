@@ -18,7 +18,7 @@ updated_at: 2023-01-29
     - Eclipse を使ってる人は [JDT Annotations For Enhanced Null Analysis](https://help.eclipse.org/latest/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Ftasks%2Ftask-using_null_annotations.htm)
 - Lombok、Hibernate Validator と併用する場合は名前の衝突も気にした方がいい
 - JSR-305、Jakarta Annotations はやめた方がいい
-  - (Which @NotNull Java annotation should I use? - Stack Overflow)[https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use] では `javax.annotation.*` か Checker Framework を奨めている
+  - [Which @NotNull Java annotation should I use? - Stack Overflow](https://stackoverflow.com/questions/4963300/which-notnull-java-annotation-should-i-use) では `javax.annotation.*` か Checker Framework を奨めている
   - Jakarta Annotations に対する言及が抜けている
   - Java 17 のバグで JSR-305、Jakarta Annotations は型変数に付けられない
 
