@@ -4,6 +4,7 @@ description:
 tags:
   - キーボード
   - Kinesis Advantage 360
+updated_at: 2023-02-21
 ---
 
 Kinesis Advantage 360 を買ったので練習として記事を書いてみる。
